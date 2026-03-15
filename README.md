@@ -1,7 +1,7 @@
 # 🛡️ Cybersecurity Attack Data Visualization
 
 **A complete Python data visualization project** analyzing simulated cybersecurity attacks.  
-This project is designed to be **educational** — every step is explained so that anyone learning data science can follow along, understand the code, and reproduce the results.
+This project is designed to be **educational**  every step is explained so that anyone learning data science can follow along, understand the code, and reproduce the results.
 
 ---
 
@@ -307,9 +307,9 @@ jupyter notebook TP_2_Visualisation_Final.ipynb
 
 ---
 
-## 👤 farah
+## 👤 Author
 
-**MYC** · Data Science Student  
+FARAH KHATTABI · Data Science & IOT engineer Student  
 📅 March 2026
 
 ---

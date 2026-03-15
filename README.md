@@ -307,11 +307,11 @@ jupyter notebook TP_2_Visualisation_Final.ipynb
 
 ---
 
-## 👤 Author
+## 👤 farah
 
 **MYC** · Data Science Student  
 📅 March 2026
 
 ---
 
-*This project is intended for educational purposes as part of a university Data Science practical lab.*
+*This project is intended for educational purposes as part of my university Data Science practical lab.*

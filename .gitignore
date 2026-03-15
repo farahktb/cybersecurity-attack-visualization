@@ -1,0 +1,17 @@
+# Exclude the exercise PDF (not for publishing)
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary scripts
+export_charts.py
